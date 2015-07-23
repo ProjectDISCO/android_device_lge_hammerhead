@@ -6,9 +6,9 @@
         "revision": "lollipop-mr1"
     },
     {
-        "remote": "aosp",
-        "repository": "device/lge/hammerhead-kernel",
+        "remote": "projectdisco",
+        "repository": "android_device_lge_hammerhead-kernel",
         "target_path": "device/lge/hammerhead-kernel",
-        "revision": "refs/tags/android-5.1.1_r4"
+        "revision": "lollipop"
     }
 ]
