@@ -1,0 +1,14 @@
+[
+    {
+        "remote": "blobs",
+        "repository": "proprietary_vendor_lge_hammerhead",
+        "target_path": "vendor/lge/hammerhead",
+        "revision": "marshmallow"
+    },
+    {
+        "remote": "projectdisco",
+        "repository": "android_device_lge_hammerhead-kernel",
+        "target_path": "device/lge/hammerhead-kernel",
+        "revision": "marshmallow"
+    }
+]
